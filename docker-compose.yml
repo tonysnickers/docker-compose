@@ -1,0 +1,4 @@
+mongodb:
+        image: mongo
+        volumes:
+            - ./data:/data/db
